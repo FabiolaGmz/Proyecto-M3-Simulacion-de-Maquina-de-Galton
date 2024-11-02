@@ -12,8 +12,6 @@ Este proyecto incluye los siguientes archivos:
 - **README.md**: Archivo de documentación que explica el proyecto.
 
 ## Funcionalidad
-
-- **Simulación de la Caída de Canicas**: La función `simular_canicas` calcula la posición final de cada canica después de chocar con varios obstáculos, usando decisiones aleatorias de izquierda o derecha en cada nivel.
 - **Generación de Histograma**: La función `graficar_histograma` utiliza matplotlib para mostrar un histograma que representa la cantidad de canicas en cada contenedor final.
 - **Parámetros Personalizables**: Puedes ajustar el número de canicas y niveles en la simulación para observar cómo varía la distribución.
 
@@ -31,7 +29,3 @@ Si tienes alguna pregunta o sugerencia, puedes contactarme a través de:
 
 - **LinkedIn**: [Fabiola Gomez](https://www.linkedin.com/in/fabiola-gomez)
 - **Instagram**: [@fabiolagmz09](https://www.instagram.com/fabiolagmz09)
-
----
-
-¡Espero que disfrutes explorando esta simulación de la Máquina de Galton y que sea una herramienta útil para aprender más sobre estadística y programación!
